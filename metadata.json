@@ -1,0 +1,6 @@
+{
+  "name": "Depth3D",
+  "description": "2D相片轉3D空間景深相機，透過手機移動體驗真實空間視差與光學景深",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

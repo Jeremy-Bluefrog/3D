@@ -1,0 +1,6 @@
+{
+  "summary":  "修訂實作計劃：加入 Material You 動態色彩 (Dynamic Color) 支援，在 Android 12+ 裝置上自動適配系統桌布與主題色彩，並保留高品質純本地離線景深計算與視差渲染。",
+  "updatedAt":  "2026-10-24T13:32:31.364565232Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
